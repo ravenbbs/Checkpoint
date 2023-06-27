@@ -1,4 +1,4 @@
 # Julio Condor
 
-Santiago Armijos
+Santiago Armijos Cabrera
 Mauro Limache
