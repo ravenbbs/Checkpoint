@@ -2,3 +2,4 @@
 
 Santiago Armijos Cabrera
 Mauro Limache
+Karen Urbano
